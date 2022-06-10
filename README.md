@@ -1,2 +1,7 @@
 # ralarco.github.io
-Mi CV
+Mi Portafolio
+
+Forkeos:
+
+https://github.com/Ralarco/jpruiztagle.github.io
+
